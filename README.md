@@ -9,7 +9,7 @@ Este repositório ira mostrar toda a minha trilha de estudos do curso da Rockese
 - Abertura
 - Instalando plugin de preview HTML
 - O que é HTML
-- Comentários
+- [Comentários](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Guia%20Estelar%20de%20HTML/comentarios.html)
 - Anatomia das Tags
 - Atributos
 - Atributos Globais
