@@ -16,3 +16,44 @@ Este repositório ira mostrar toda a minha trilha de estudos do curso da Rockese
 - Caracteres Reservados
 - Anatomia Documento
 - Criando Projetos
+
+### Módulo 2 Trabalhando com Elementos
+
+- Semântica
+- Títulos e Parágrafos
+- Listas
+- Citações
+- Abreviações
+- Detalhes de contato
+- Lista de descrição
+- Representação de código
+- Elementos Genéricos
+
+### Módulo 2 Links
+
+- Conhecendo a tag âncora
+- Utilizando a tag âncora
+- Conteúdos dentro de elemento a
+- Caminhos e URLS
+- Como navegar pelos diretórios
+- Caminhos absolutos vs relativos
+- Exercício de apresentação
+
+### Módulo 2 Tabelas
+
+- Tabelas
+- Tabela básica
+- Organizando Tabelas
+- Tabela complexa
+- THead complexa
+- TBody complexo
+- Melhorando o aspecto com colgroup
+- Melhorando acessibilidade
+
+### Módulo 2 Cabeçalho
+
+- Head
+- Meta
+- Favicon
+- Meta SEO
+- Meta Social
