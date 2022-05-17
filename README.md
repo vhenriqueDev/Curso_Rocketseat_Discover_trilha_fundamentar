@@ -4,6 +4,8 @@ Este repositório ira mostrar toda a minha trilha de estudos do curso da Rockese
 # Atividades: :pencil: :man_technologist:
 # Módulo 2 Guia Estelar de HTML
 
+### Conceitos
+
 - Abertura
 - Instalando plugin de preview HTML
 - O que é HTML
