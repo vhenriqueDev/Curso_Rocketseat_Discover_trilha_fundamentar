@@ -17,7 +17,7 @@ Este repositório ira mostrar toda a minha trilha de estudos do curso da Rockese
 - Anatomia Documento
 - Criando Projetos
 
-### Módulo 2 Trabalhando com Elementos
+### Trabalhando com Elementos
 
 - Semântica
 - Títulos e Parágrafos
@@ -29,7 +29,7 @@ Este repositório ira mostrar toda a minha trilha de estudos do curso da Rockese
 - Representação de código
 - Elementos Genéricos
 
-### Módulo 2 Links
+### Links
 
 - Conhecendo a tag âncora
 - Utilizando a tag âncora
@@ -39,7 +39,7 @@ Este repositório ira mostrar toda a minha trilha de estudos do curso da Rockese
 - Caminhos absolutos vs relativos
 - Exercício de apresentação
 
-### Módulo 2 Tabelas
+### Tabelas
 
 - Tabelas
 - Tabela básica
@@ -50,7 +50,7 @@ Este repositório ira mostrar toda a minha trilha de estudos do curso da Rockese
 - Melhorando o aspecto com colgroup
 - Melhorando acessibilidade
 
-### Módulo 2 Cabeçalho
+### Cabeçalho
 
 - Head
 - Meta
