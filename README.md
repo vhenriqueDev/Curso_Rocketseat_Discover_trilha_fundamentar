@@ -22,7 +22,7 @@ Este repositório ira mostrar toda a minha trilha de estudos do curso da Rockese
 ### Trabalhando com Elementos
 
 - [Semântica](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Trabalhando_com_Elementos/semantica.html)
-- Títulos e Parágrafos
+- [Títulos e Parágrafos](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Trabalhando_com_Elementos/cabecalho-paragrafos.html)
 - Listas
 - Citações
 - Abreviações
