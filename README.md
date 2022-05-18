@@ -11,7 +11,7 @@ Este repositório ira mostrar toda a minha trilha de estudos do curso da Rockese
 - O que é HTML
 - [Comentários](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Guia%20Estelar%20de%20HTML/comentarios.html)
 - [Anatomia das Tags](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Guia%20Estelar%20de%20HTML/anatomia-tags.html)
-- Atributos
+- [Atributos](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Guia_Estelar_de_HTML/atributos.html)
 - Atributos Globais
 - Aninhamento Hierarquia
 - Praticando
