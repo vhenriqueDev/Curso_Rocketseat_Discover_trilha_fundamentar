@@ -1,0 +1,35 @@
+<!--
+    Aninhamento de tags
+
+    - Hieraquia
+    - Fluxo
+    - Posicionamento dos elementos (algumas tags vão ficar em linha outras vão quebrar a linha)
+    - em (ênfase)
+-->
+<p>
+  Vou <em>escrever</em> um parágrafo
+</p>
+
+<!--errado pois o html vai ter que se virar-->
+
+<p>
+  Vou <em>escrever um parágrafo
+</p> ainda se eu tivesse texto aqui</em>
+
+<!--certo para o texto todo-->
+
+<p>
+  Vou <em>escrever um parágrafo
+ainda se eu tivesse texto aqui</em></p> 
+
+<!-- 
+  hieraquia
+  a div e pai do em e do p
+-->
+
+<div>
+  <p>
+    Vou <em>escrever um parágrafo
+    ainda se eu tivesse texto aqui</em>
+  </p>
+</div>
