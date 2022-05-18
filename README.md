@@ -13,7 +13,7 @@ Este repositório ira mostrar toda a minha trilha de estudos do curso da Rockese
 - [Anatomia das Tags](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Guia_Estelar_de_HTML/anatomia-tags.html)
 - [Atributos](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Guia_Estelar_de_HTML/atributos.html)
 - [Atributos Globais](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Guia_Estelar_de_HTML/atributos-globais.html)
-- Aninhamento Hierarquia
+- [Aninhamento Hierarquia](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Guia_Estelar_de_HTML/aninhamento-de-tags.html)
 - Praticando
 - Caracteres Reservados
 - Anatomia Documento
