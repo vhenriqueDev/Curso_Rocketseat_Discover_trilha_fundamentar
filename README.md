@@ -24,7 +24,7 @@ Este repositório ira mostrar toda a minha trilha de estudos do curso da Rockese
 - [Semântica](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Trabalhando_com_Elementos/semantica.html)
 - [Títulos e Parágrafos](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Trabalhando_com_Elementos/cabecalho-paragrafos.html)
 - [Listas](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Trabalhando_com_Elementos/listas.htm)
-- Citações
+- [Citações](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Trabalhando_com_Elementos/citacoes.html)
 - Abreviações
 - Detalhes de contato
 - Lista de descrição
