@@ -59,3 +59,55 @@ Este repositório ira mostrar toda a minha trilha de estudos do curso da Rockese
 - [Favicon](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Cabe%C3%A7alho/favicon.html)
 - [Meta SEO](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Cabe%C3%A7alho/meta-seo.html)
 - [Meta Social](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Cabe%C3%A7alho/meta-social.html)
+
+##
+
+# Módulo 3 Guia Estelar de CSS
+
+### O guia estelar de CSS
+
+- Abertura
+- Conhecendo o CSS
+- Comentários
+- Anatomia
+- Seletores
+- Box model
+- Origem do CSS
+- A Cascata
+- Especificidade
+- Regra important
+- At rules
+- Shorthand
+- Funções
+- DevTools
+- Cuidados com a escrita
+- Vendor prefixes
+
+##
+
+# Módulo 4 Nem tudo são pixels
+
+### Nem tudo são pixels
+
+- Abertura
+- Introdução
+- Tipos numéricos e unidades comuns
+- Distâncias absolutas e relativas
+- Porcentagens
+- Position
+- Funções
+- Strings e identificadores
+
+##
+
+# Módulo 5 Uma caixa dentro da outra
+
+### Uma caixa dentro da outra
+
+- Abertura
+- Introdução
+- Box Sizing
+- Display-block-inline
+- Margin
+- Padding
+- Border-outline
