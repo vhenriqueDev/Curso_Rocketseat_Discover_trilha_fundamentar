@@ -29,24 +29,24 @@ Este repositório ira mostrar toda a minha trilha de estudos do curso da Rockese
 - [Detalhes de contato](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Trabalhando_com_Elementos/detalhes-de-contato.html)
 - [Lista de descrição](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Trabalhando_com_Elementos/lista-de-descricao.html)
 - [Representação de código](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Trabalhando_com_Elementos/code-pre.html)
-- Elementos Genéricos
+- [Elementos Genéricos](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Trabalhando_com_Elementos/elementos-genericos.html)
 
 ### Links
 
-- Conhecendo a tag âncora
-- Utilizando a tag âncora
-- Conteúdos dentro de elemento a
-- Caminhos e URLS
-- Como navegar pelos diretórios
-- Caminhos absolutos vs relativos
-- Exercício de apresentação
+- [Conhecendo a tag âncora](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Links/conteudo-a-element.html)
+- [Utilizando a tag âncora](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Links/praticando-com-hyperlinks.html)
+- [Conteúdos dentro de elemento a](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Links/hyperlinks.html)
+- [Caminhos e URLS](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Links/url-caminhos.html)
+- [Como navegar pelos diretórios](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Links/navegar-pelos-caminhos.html)
+- [Caminhos absolutos vs relativos](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Links/url-absoluta-e-relativas.html)
+- [Exercício de apresentação](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/tree/main/M%C3%B3dulo%202/Links/Projeto)
 
 ### Tabelas
 
-- Tabelas
-- Tabela básica
-- Organizando Tabelas
-- Tabela complexa
+- [Tabelas](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Tabelas/intro.html)
+- [Tabela básica](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Tabelas/table-basica.html)
+- [Organizando Tabelas](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Tabelas/table-head-body-foot.html)
+- [Tabela complexa](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Tabelas/table-complexa.html)
 - THead complexa
 - TBody complexo
 - Melhorando o aspecto com colgroup
@@ -54,8 +54,8 @@ Este repositório ira mostrar toda a minha trilha de estudos do curso da Rockese
 
 ### Cabeçalho
 
-- Head
-- Meta
-- Favicon
-- Meta SEO
-- Meta Social
+- [Head](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Cabe%C3%A7alho/head.html)
+- [Meta](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Cabe%C3%A7alho/meta.html)
+- [Favicon](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Cabe%C3%A7alho/favicon.html)
+- [Meta SEO](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Cabe%C3%A7alho/meta-seo.html)
+- [Meta Social](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%202/Cabe%C3%A7alho/meta-social.html)
