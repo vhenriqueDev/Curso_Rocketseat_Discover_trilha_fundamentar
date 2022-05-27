@@ -105,9 +105,9 @@ Este repositório ira mostrar toda a minha trilha de estudos do curso da Rockese
 ### Uma caixa dentro da outra
 
 - Abertura
-- Introdução
-- Box Sizing
+- [Introdução](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%205/Introducao.md)
+- [Box Sizing](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%205/box-sizing.md)
 - Display-block-inline
-- Margin
-- Padding
-- Border-outline
+- [Margin](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%205/Margin.md)
+- [Padding](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%205/padding.md)
+- [Border-outline](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%205/border-e-outline.md)
