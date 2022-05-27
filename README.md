@@ -67,21 +67,21 @@ Este repositório ira mostrar toda a minha trilha de estudos do curso da Rockese
 ### O guia estelar de CSS
 
 - Abertura
-- Conhecendo o CSS
-- Comentários
-- Anatomia
-- Seletores
-- Box model
-- Origem do CSS
-- A Cascata
-- Especificidade
-- Regra important
-- At rules
-- Shorthand
-- Funções
+- [Conhecendo o CSS]((https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%203/introducao.md))
+- [Comentários](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%203/commentes.md)
+- [Anatomia](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%203/Anatomia.md)
+- [Seletores](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%203/seletores.md)
+- [Box model](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%203/box-model.md)
+- [Origem do CSS](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%203/adicionando-css.md)
+- [A Cascata](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%203/a-cascata.md)
+- [Especificidade](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%203/especificidade.md)
+- [Regra important](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%203/a-regra-!important.md)
+- [At rules](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%203/at-rules.md)
+- [Shorthand](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%203/shorthand.md)
+- [Funções](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%203/funcoes.md)
 - DevTools
 - Cuidados com a escrita
-- Vendor prefixes
+- [Vendor prefixes](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%203/vendor-prefixes.md)
 
 ##
 
