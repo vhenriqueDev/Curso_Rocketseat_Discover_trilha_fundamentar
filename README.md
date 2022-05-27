@@ -90,13 +90,13 @@ Este repositório ira mostrar toda a minha trilha de estudos do curso da Rockese
 ### Nem tudo são pixels
 
 - Abertura
-- Introdução
-- Tipos numéricos e unidades comuns
-- Distâncias absolutas e relativas
-- Porcentagens
-- Position
-- Funções
-- Strings e identificadores
+- [Introdução](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%204/introducao.md)
+- [Tipos numéricos e unidades comuns](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%204/numeros.md)
+- [Distâncias absolutas e relativas](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%204/distancias-absolutas-e-relativas.md)
+- [Porcentagens](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%204/porcentagem.md)
+- [Position](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%204/position.md)
+- [Funções](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%204/funcoes.md)
+- [Strings e identificadores](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%204/strings-e-identificadores.md)
 
 ##
 
