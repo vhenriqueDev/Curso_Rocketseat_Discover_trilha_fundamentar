@@ -111,3 +111,136 @@ Este repositório ira mostrar toda a minha trilha de estudos do curso da Rockese
 - [Margin](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%205/Margin.md)
 - [Padding](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%205/padding.md)
 - [Border-outline](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%205/border-e-outline.md)
+
+##
+
+# Módulo 6 Agora sim, cores
+
+### Cores
+
+- Abertura
+- Introdução
+- Keyword named values
+- Hexadecimal
+- RGB
+- HSL
+- Global values
+- Conclusão
+
+### Background
+
+- Introdução
+- Background-color
+- Background-image-repeat
+- Background-position
+- Background-size
+- Background-origin-clip
+- Background-attachment
+- Shorthand
+- Gradient
+- Múltiplos valores
+- Experimentar
+
+##
+
+# Módulo 7 Posso ver e ouvir o HTML
+
+### Audio e Vídeo
+
+- Abertura
+- Vídeo
+- Áudio
+- Iframe
+
+### Images
+
+- Images
+- Praticando images
+- Background image
+- Figures
+- Intro de SVG
+- SVG na prática
+
+##
+
+# Módulo 8 Posicionando foguetes
+
+### Posicionando foguetes
+
+- Abertura
+- Layouts
+- Position
+- Static
+- Relative
+- Absolute
+- Fixed
+- Element Stacking
+- Flex
+- Grid
+- Grid ou Flexbox
+
+##
+
+# Módulo 9 App bonito, até nos textos
+
+### Trabalhando com fontes
+
+- Abertura
+- Introdução font-properties
+- Font-family
+- Font-weight
+- Font-style
+- Font-size
+- Web-fonts
+
+### Mais estilos para os textos
+
+- Font-variant e font-stretch
+- Letter e word-spacing
+- Line-height e text-transform
+- Text-decoration
+- Text-align
+- Text-shadow
+- Shorthand
+
+##
+
+# Módulo 10 Formulários de outro planeta
+
+### Introdução
+
+- Abertura
+- O que são forms
+
+### Estrutura
+
+- Form
+- Fieldset legend
+- Label
+- Button
+- Datalist
+
+### Tags de Entrada de Dados
+
+- Input
+- Input atributos
+- Password
+- Email
+- URL
+- File
+- Color
+- Checkbox
+- Hidden
+- Radio
+- Textarea
+- Select
+- Optgroup
+- Search
+- Number
+- Range
+- Data e hora
+
+### Criando um formulário
+
+- Desenhando
+- Exemplo de formulário de contato
