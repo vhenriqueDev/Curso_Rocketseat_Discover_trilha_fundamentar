@@ -119,13 +119,13 @@ Este repositório ira mostrar toda a minha trilha de estudos do curso da Rockese
 ### Cores
 
 - Abertura
-- Introdução
-- Keyword named values
-- Hexadecimal
-- RGB
-- HSL
-- Global values
-- Conclusão
+- [Introdução](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%206/Background/cores.md)
+- [Keyword named values](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%206/Background/Keyword-named-values.md)
+- [Hexadecimal](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%206/Background/hexadecimal.md)
+- [RGB](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%206/Background/rgb.md)
+- [HSL](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%206/Background/hsl.md)
+- [Global values](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%206/Background/global-values.md)
+- [Conclusão](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%206/Background/referencia.md)
 
 ### Background
 
