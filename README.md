@@ -129,8 +129,8 @@ Este repositório ira mostrar toda a minha trilha de estudos do curso da Rockese
 
 ### Background
 
-- Introdução
-- Background-color
+- [Introdução](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/blob/main/M%C3%B3dulo%206/Cores/introducao.md)
+- [Background-color](https://github.com/vhenriqueDev/Curso_Rocketseat_Discover_trilha_fundamentar/tree/main/M%C3%B3dulo%206/Cores/aula%2002%20a%2010)
 - Background-image-repeat
 - Background-position
 - Background-size
